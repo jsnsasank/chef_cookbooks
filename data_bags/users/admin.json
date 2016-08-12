@@ -1,0 +1,9 @@
+{
+  "id": "admin",
+  "comment": "Chef data-bag user",
+  "uid": 2005,
+  "gid": 0,
+  "home": "/home/admin",
+  "shell": "/bin/bash",
+  "password": "welcome"
+}
